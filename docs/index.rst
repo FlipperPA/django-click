@@ -3,6 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+============
+Django Click
+============
+
+.. include:: ../README.rst
+
 Welcome to Django Click's documentation!
 ========================================
 
@@ -10,6 +16,8 @@ Welcome to Django Click's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   getting_started
+   examples
 
 
 Indices and tables
